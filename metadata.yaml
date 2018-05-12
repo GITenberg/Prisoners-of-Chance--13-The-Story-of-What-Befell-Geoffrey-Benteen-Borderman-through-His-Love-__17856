@@ -1,0 +1,39 @@
+_repo: Prisoners-of-Chance--13-The-Story-of-What-Befell-Geoffrey-Benteen-Borderman-through-His-Love-__17856
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+  - agent_name: Kinney, Margaret West
+    birthdate: 1872
+    gutenberg_agent_id: '25250'
+    url: http://www.gutenberg.org/2009/agents/25250
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parrish, Randall
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '2217'
+    url: http://www.gutenberg.org/2009/agents/2217
+description: ''
+gutenberg_issued: '2006-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+title: "Prisoners of Chance\r\nThe Story of What Befell Geoffrey Benteen, Borderman,\
+  \ through His Love for a Lady of France"
+url: http://www.gutenberg.org/ebooks/17856
